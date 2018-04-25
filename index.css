@@ -1,0 +1,22 @@
+.container{
+	display:flex;
+	flex-direction:column;
+	flex-wrap:wrap;
+	font-family:Amita;
+	border-top-style: solid;
+	border-bottom-style:solid;
+	border-color:lightgrey;
+    border-width: 0.5px;
+	background-color:#ebebe0;
+	padding:1vw;
+	height:7vh;
+}
+
+.text{
+	display:flex;
+	flex-direction:column;
+	flex-wrap:wrap;
+	padding:1vw;
+	font-family:Amita;
+	
+}
